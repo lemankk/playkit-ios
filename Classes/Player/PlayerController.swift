@@ -10,7 +10,7 @@
 
 import Foundation
 
-class PlayerController: NSObject, Player {
+open class PlayerController: NSObject, Player {
     
     /************************************************************/
     // MARK: - Properties
